@@ -1,0 +1,35 @@
+{
+  "name": "sneha",
+  "version": "1.0.0",
+  "description": "sneha weather app",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.0",
+    "connect-flash": "^0.1.1",
+    "consolidate": "^0.14.5",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.5",
+    "express-validator": "^4.1.1",
+    "http": "0.0.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.11.10",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.81.0",
+    "upper-case": "^1.1.3",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testjs",
+    "start": "node server.js"
+  },
+  "author": "sneha shirsat",
+  "license": "ISC"
+}
